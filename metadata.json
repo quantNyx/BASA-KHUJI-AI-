@@ -1,0 +1,6 @@
+{
+  "name": "Basa Khuji AI",
+  "description": "The street-smart, brutally honest Dhaka bachelor house hunting decoder & Bariwala Boss Fight simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
